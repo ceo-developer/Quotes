@@ -1,0 +1,6 @@
+pyTelegramBotAPI==4.22.1
+pyrogram==2.0.106
+tgcrypto==1.2.5
+aiohttp==3.10.10
+Pillow==10.4.0
+python-dotenv==1.0.1
