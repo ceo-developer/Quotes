@@ -1,0 +1,4 @@
+pycache/ *.pyc 
+bot_data.json 
+bot.log 
+.env
